@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.2D Top-Down Shooter.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Unity\Upwork\2D Top-Down Shooter\.idea\.idea.2D Top-Down Shooter\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
